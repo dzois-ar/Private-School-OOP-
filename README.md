@@ -41,9 +41,9 @@ or
 pip3 install PrettyTable
 ```
 
- ## Now run  private school.py
+ --> Now run  private school.py
 
-###### Screenshot:
+### App Preview:
 
 ![Screenshot from 2022-09-29 20-20-40](https://user-images.githubusercontent.com/80916754/193111256-18fff18e-23d9-4151-99f8-614344535158.png)
 ![Screenshot from 2022-09-30 17-27-51](https://user-images.githubusercontent.com/80916754/193297778-9cf735b5-7c5f-49e2-8cc8-9a98f1360071.png)
